@@ -1,0 +1,26 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: heat some egg and put it in garbagecan.
+1: Act 1: think: To solve the task, I need to find an egg, then heat it with the microwave, and finally put it in the garbage can. 
+Obs 1: OK.
+2: Act 2: think: First, I need to find an egg. An egg is more likely to appear in the fridge (1), countertop (1-3), drawer (1-3), cabinet (1-6), or garbage can (1). Let me ask where to look for the egg first. 
+Obs 2: OK.
+3: Act 3: speak: I need to find an egg. An egg is more likely to appear in fridge (1), countertop (1-3), drawer (1-3), cabinet (1-6), or garbage can (1). Where do you suggest I should look for the egg first? 
+Obs 3: Human: Can you please check countertop 3?
+4: Act 4: go to countertop 3 
+Obs 4: On the countertop 3, you see a butterknife 3, a butterknife 2, a butterknife 1, a cellphone 1, a cup 2, a egg 1, a fork 1, a houseplant 1, a lettuce 3, a plate 2, a plate 1, a potato 1, a tomato 2, and a vase 3.
+5: Act 5: think: Now I find an egg (1). Next, I need to take it. 
+Obs 5: OK.
+6: Act 6: take egg 1 from countertop 3 
+Obs 6: You pick up the egg 1 from the countertop 3.
+7: Act 7: think: Now I have an egg (1). Next, I need to go to the microwave (1) and heat it. 
+Obs 7: OK.
+8: Act 8: go to microwave 1 
+Obs 8: The microwave 1 is closed.
+9: Act 9: heat egg 1 with microwave 1 
+Obs 9: You heat the egg 1 using the microwave 1.
+10: Act 10: think: Now I have heated the egg (1). Next, I need to put it in the garbage can (1). 
+Obs 10: OK.
+11: Act 11: go to garbagecan 1 
+Obs 11: On the garbagecan 1, you see a soapbottle 2, and a tomato 3.
+12: Act 12: put egg 1 in/on garbagecan 1 
+Obs 12: You put the egg 1 in/on the garbagecan 1.

@@ -1,0 +1,24 @@
+0: You are in the middle of a room. Looking quickly around you, you see a armchair 1, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a safe 1, a shelf 12, a shelf 11, a shelf 10, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 1, and a sofa 1.
+Your task is to: put some watch on safe.
+1: Act 1: think: To solve the task, I need to find a watch and then put it on the safe. 
+Obs 1: OK.
+2: Act 2: think: First, I need to find a watch. A watch is more likely to appear in cabinets (1-4), drawers (1-5), dresser (1), sidetable (1), or on the sofa (1). Let me ask where to look for the watch first. 
+Obs 2: OK.
+3: Act 3: speak: I need to find a watch. A watch is more likely to appear in cabinets (1-4), drawers (1-5), dresser (1), sidetable (1), or on the sofa (1). Where do you suggest I should look for the watch first? 
+Obs 3: Human: Can you please check the dresser 1?
+4: Act 4: go to dresser 1 
+Obs 4: On the dresser 1, you see a box 1, a cellphone 2, a cellphone 1, a keychain 1, a laptop 1, a newspaper 1, and a watch 3.
+5: Act 5: think: Now I find a watch (3). Next, I need to take it. 
+Obs 5: OK.
+6: Act 6: take watch 3 from dresser 1 
+Obs 6: You pick up the watch 3 from the dresser 1.
+7: Act 7: think: Now I have the watch (3). Next, I need to put it on the safe. 
+Obs 7: OK.
+8: Act 8: go to safe 1 
+Obs 8: The safe 1 is closed.
+9: Act 9: open safe 1 
+Obs 9: You open the safe 1. The safe 1 is open. In it, you see a vase 3, and a vase 2.
+10: Act 10: think: Now that the safe is open, I need to put the watch (3) inside the safe (1). 
+Obs 10: OK.
+11: Act 11: put watch 3 in/on safe 1 
+Obs 11: You put the watch 3 in/on the safe 1.

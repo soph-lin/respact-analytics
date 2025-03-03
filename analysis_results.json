@@ -1,0 +1,13 @@
+{
+  "total_conversations": 23,
+  "successful_conversations": 23,
+  "success_rate": 1.0,
+  "avg_speak_turns_all": 2.0869565217391304,
+  "avg_speak_turns_successful": 2.0869565217391304,
+  "avg_tokens_per_speak_all": 34.43478260869565,
+  "avg_tokens_per_speak_successful": 34.43478260869565,
+  "speak_type_distribution": {
+    "question": 42,
+    "other": 6
+  }
+}

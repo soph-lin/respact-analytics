@@ -1,0 +1,32 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: clean some cloth and put it in cabinet.
+1: Act 1: think: To solve the task, I need to find and take a cloth, then clean it with one of the sinkbasins, and finally put it in a cabinet. 
+Obs 1: OK.
+2: Act 2: think: First, I need to find a cloth. A cloth is more likely to appear in the handtowelholders (1-2), towelholder (1), or possibly in the cabinets (1-4) or garbagecan (1). Let me ask where I should start first. 
+Obs 2: OK.
+3: Act 3: speak: I think a cloth is more likely to appear in the handtowelholders (1-2), towelholder (1), or possibly in the cabinets (1-4) or garbagecan (1). Where should I look for the cloth first? 
+Obs 3: Human: Can you please check cabinet 4?
+4: Act 4: go to cabinet 4 
+Obs 4: The cabinet 4 is closed.
+5: Act 5: open cabinet 4 
+Obs 5: You open the cabinet 4. The cabinet 4 is open. In it, you see a cloth 2.
+6: Act 6: think: Now I find a cloth (2) in cabinet 4. Next, I need to take it. 
+Obs 6: OK.
+7: Act 7: take cloth 2 from cabinet 4 
+Obs 7: You pick up the cloth 2 from the cabinet 4.
+8: Act 8: think: Now I have taken the cloth (2). Next, I need to go to one of the sinkbasins (1 or 2) to clean it. I will choose to go to sinkbasin 1 first. 
+Obs 8: OK.
+9: Act 9: go to sinkbasin 1 
+Obs 9: On the sinkbasin 1, you see nothing.
+10: Act 10: clean cloth 2 with sinkbasin 1 
+Obs 10: You clean the cloth 2 using the sinkbasin 1.
+11: Act 11: think: Now I have cleaned the cloth (2). Next, I need to put it in one of the cabinets. I will choose to go to cabinet 1 first to put the cloth there. 
+Obs 11: OK.
+12: Act 12: go to cabinet 1 
+Obs 12: The cabinet 1 is closed.
+13: Act 13: open cabinet 1 
+Obs 13: You open the cabinet 1. The cabinet 1 is open. In it, you see a toiletpaper 1.
+14: Act 14: think: Now that I have opened cabinet 1 and found a toiletpaper (1), I can proceed to put the cleaned cloth (2) in this cabinet. This is the next logical step to complete the task. 
+Obs 14: OK.
+15: Act 15: put cloth 2 in/on cabinet 1 
+Obs 15: You put the cloth 2 in/on the cabinet 1.
