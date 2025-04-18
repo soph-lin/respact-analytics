@@ -1,0 +1,32 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a cool lettuce in countertop.
+1: > think: To solve the task, I need to find and take a lettuce, then cool it with the fridge, and finally put it on the countertop.
+OK.
+2: > think: First, I need to find a lettuce. A lettuce is more likely to appear in the fridge, countertop, or cabinet. Let me check with the user where to look first.
+OK.
+3: > speak: Where should I look for the lettuce first?
+Human: You should look for the lettuce on countertop 1.
+4: > act: go to countertop 1
+On the countertop 1, you see a apple 1, a cellphone 1, a cup 2, a glassbottle 2, a lettuce 1, and a spatula 1.
+5: > think: I have found the lettuce on countertop 1. Next, I need to take the lettuce and cool it with the fridge.
+OK.
+6: > act: take lettuce 1 from countertop 1
+You pick up the lettuce 1 from the countertop 1.
+7: > think: Now that I have the lettuce, I need to go to the fridge and cool it.
+OK.
+8: > act: go to fridge 1
+The fridge 1 is closed.
+9: > act: open fridge 1
+You open the fridge 1. The fridge 1 is open. In it, you see a bowl 3, a bread 1, a cup 1, a egg 1, a pan 1, a plate 2, a potato 1, and a tomato 2.
+10: > think: Now that the fridge is open, I need to cool the lettuce with the fridge.
+OK.
+11: > act: cool lettuce 1 with fridge 1
+You cool the lettuce 1 using the fridge 1.
+12: > think: Now that the lettuce is cooled, I need to put it on the countertop. Let me confirm with the user which countertop to use.
+OK.
+13: > speak: I have cooled the lettuce. Should I put it back on countertop 1 or another countertop?
+Human: You should put the lettuce on countertop 2.
+14: > act: go to countertop 2
+On the countertop 2, you see a bowl 1, a bread 2, a butterknife 1, a fork 2, a fork 1, a knife 1, a plate 1, a saltshaker 1, a soapbottle 1, a spatula 2, and a tomato 1.
+15: > act: put lettuce 1 in/on countertop 2
+You put the lettuce 1 in/on the countertop 2.

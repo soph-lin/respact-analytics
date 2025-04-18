@@ -1,0 +1,46 @@
+0: You are in the middle of a room. Looking quickly around you, you see a armchair 1, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a safe 1, a shelf 12, a shelf 11, a shelf 10, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 1, and a sofa 1.
+Your task is to: put two pillow in sofa.
+1: > think: To solve the task, I need to find and take the first pillow, then put it in sofa, then find and take the second pillow, then put it in sofa.
+OK.
+2: > think: First I need to find the first pillow. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Let me check with the user about this.
+OK.
+3: > speak: I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?
+Human: 
+4: > speak: I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?
+Human: 
+5: > speak: I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?
+Human: 
+6: > speak: I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?
+Human: You should start by looking in armchair 1 first.
+7: > go to armchair 1
+Wrong response format. Please specify if it is a think, speak or act response.
+8: > act: go to armchair 1
+On the armchair 1, you see a cellphone 2, a pillow 2, and a pillow 1.
+9: > think: Now I found two pillows on the armchair 1. I need to take the first pillow, then put it in sofa 1, and then take the second pillow and put it in sofa 1.
+OK.
+10: > take pillow 1 from armchair 1
+Wrong response format. Please specify if it is a think, speak or act response.
+11: > act: take pillow 1 from armchair 1
+You pick up the pillow 1 from the armchair 1.
+12: > think: Now that I have taken the first pillow, I need to go to the sofa and put it there.
+OK.
+13: > act: go to sofa 1
+On the sofa 1, you see a newspaper 3.
+14: > think: Now that I have reached the sofa, I need to put the first pillow on it.
+OK.
+15: > act: put pillow 1 in/on sofa 1
+You put the pillow 1 in/on the sofa 1.
+16: > think: Now that I have put the first pillow on the sofa, I need to go back to the armchair to take the second pillow and then put it on the sofa.
+OK.
+17: > act: go to armchair 1
+On the armchair 1, you see a cellphone 2, and a pillow 2.
+18: > think: Now that I am back at the armchair, I need to take the second pillow and then put it on the sofa.
+OK.
+19: > act: take pillow 2 from armchair 1
+You pick up the pillow 2 from the armchair 1.
+20: > think: Now that I have taken the second pillow, I need to go to the sofa and put it there.
+OK.
+21: > act: go to sofa 1
+On the sofa 1, you see a newspaper 3, and a pillow 1.
+22: > act: put pillow 2 in/on sofa 1
+You put the pillow 2 in/on the sofa 1.

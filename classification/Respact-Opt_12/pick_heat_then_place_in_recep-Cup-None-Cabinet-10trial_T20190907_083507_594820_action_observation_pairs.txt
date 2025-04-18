@@ -1,0 +1,24 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a hot cup in cabinet.
+1: Act 1: think: To solve the task, I need to find and take a cup, then heat it, and finally put it in a cabinet. First, I need to locate a cup. A cup is more likely to appear in fridge, countertop, diningtable, or cabinet. Let me ask where to look for the cup first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a cup. A cup is more likely to appear in fridge, countertop, diningtable, or cabinet. Where do you suggest I should look for the cup first? 
+Obs 2: Human: Can you please check cabinet 3?
+3: Act 3: go to cabinet 3 
+Obs 3: On the cabinet 3, you see a cup 2, and a peppershaker 1.
+4: Act 4: think: Now I find a cup (2) in cabinet 3. Next, I need to take it and then heat it. Since I don't have a specific heating method mentioned, I will use the microwave. 
+Obs 4: OK.
+5: Act 5: take cup 2 from cabinet 3 
+Obs 5: You pick up the cup 2 from the cabinet 3.
+6: Act 6: think: Now that I have taken the cup (2), I need to go to the microwave and heat it. After heating, I will put it in a cabinet. 
+Obs 6: OK.
+7: Act 7: go to microwave 1 
+Obs 7: The microwave 1 is closed.
+8: Act 8: heat cup 2 with microwave 1 
+Obs 8: You heat the cup 2 using the microwave 1.
+9: Act 9: think: Now that the cup (2) is heated, I need to put it in a cabinet. I should choose one of the available cabinets to place the cup in. 
+Obs 9: OK.
+10: Act 10: go to cabinet 1 
+Obs 10: On the cabinet 1, you see a plate 2, and a plate 1.
+11: Act 11: put cup 2 in/on cabinet 1 
+Obs 11: You put the cup 2 in/on the cabinet 1.

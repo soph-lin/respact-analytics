@@ -1,0 +1,34 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: clean some spatula and put it in drawer.
+1: Act 1: think: To solve the task, I need to find and take a spatula, then clean it with sinkbasin, and finally put it in a drawer. First, I need to find a spatula. A spatula is more likely to appear in countertops (1-3), drawers (1-3), cabinets (1-6), or shelves (1-3). Let me ask where I should start looking first. 
+Obs 1: OK.
+2: Act 2: speak: I think a spatula is more likely to appear in countertops (1-3), drawers (1-3), cabinets (1-6), or shelves (1-3). Where should I look for the spatula first? 
+Obs 2: Human: Can you please check countertop 2?
+3: Act 3: go to countertop 2 
+Obs 3: On the countertop 2, you see a bread 2, a bread 1, a butterknife 2, a butterknife 1, a fork 1, a spatula 1, a spoon 1, a statue 1, and a tomato 1.
+4: Act 4: think: I have found a spatula (1) on countertop 2. Next, I need to take it and then clean it with the sinkbasin. After that, I will put it in a drawer. 
+Obs 4: OK.
+5: Act 5: take spatula 1 from countertop 2 
+Obs 5: You pick up the spatula 1 from the countertop 2.
+6: Act 6: think: Now that I have taken the spatula (1), I need to go to the sinkbasin (1) to clean it. After cleaning, I will put it in a drawer. 
+Obs 6: OK.
+7: Act 7: go to sinkbasin 1 
+Obs 7: On the sinkbasin 1, you see a plate 2, a potato 2, and a tomato 2.
+8: Act 8: clean spatula 1 with sinkbasin 1 
+Obs 8: You clean the spatula 1 using the sinkbasin 1.
+9: Act 9: think: Now that I have cleaned the spatula (1), I need to put it in a drawer. I should choose one of the drawers (1-3) to place the spatula in. Let me ask where I should put it. 
+Obs 9: OK.
+10: Act 10: speak: I have cleaned the spatula (1). Which drawer (1-3) should I put it in? 
+Obs 10: Human: Please put the spatula in drawer 1.
+11: Act 11: go to drawer 1 
+Obs 11: The drawer 1 is closed.
+12: Act 12: open drawer 1 
+Obs 12: You open the drawer 1. The drawer 1 is open. In it, you see nothing.
+13: Act 13: put spatula 1 in/on drawer 1 
+Obs 13: You open the drawer 1. The drawer 1 is open. In it, you see nothing.
+14: Act 14: put spatula 1 in/on drawer 1 
+Obs 14: You open the drawer 1. The drawer 1 is open. In it, you see nothing.
+15: Act 15: think: It seems there was a repetition in the last action. I need to ensure the spatula is placed in the drawer correctly. Let me try putting the spatula in drawer 1 again. 
+Obs 15: OK.
+16: Act 16: put spatula 1 in/on drawer 1 
+Obs 16: You put the spatula 1 in/on the drawer 1.

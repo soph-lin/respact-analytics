@@ -1,0 +1,46 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a clean spatula in drawer.
+1: Act 1: think: To solve the task, I need to find and take a spatula, then clean it with sinkbasin, and finally put it in a drawer. 
+Obs 1: OK.
+2: Act 2: think: First, I need to find a spatula. A spatula is more likely to appear in drawers (1-3), countertops (1-3), cabinets (1-6), or possibly on the shelf (1-3). Let me ask where I should start looking for the spatula. 
+Obs 2: OK.
+3: Act 3: speak: I think a spatula is more likely to appear in drawers (1-3), countertops (1-3), cabinets (1-6), or possibly on the shelf (1-3). Where should I look for the spatula first? 
+Obs 3: Human: Can you please check countertop 3?
+4: Act 4: go to countertop 3 
+Obs 4: On the countertop 3, you see a bread 1, a creditcard 1, a houseplant 1, a knife 2, a spatula 1, a spoon 1, and a statue 2.
+5: Act 5: think: I have found a spatula (1) on countertop 3. Next, I need to take it and then clean it with the sinkbasin. After that, I will put it in a drawer. 
+Obs 5: OK.
+6: Act 6: take spatula 1 from countertop 3 
+Obs 6: You pick up the spatula 1 from the countertop 3.
+7: Act 7: think: Now that I have taken the spatula (1), I need to go to the sinkbasin (1) to clean it. After cleaning, I will put it in a drawer. 
+Obs 7: OK.
+8: Act 8: go to sinkbasin 1 
+Obs 8: On the sinkbasin 1, you see a apple 1, a butterknife 2, a potato 3, and a tomato 2.
+9: Act 9: clean spatula 1 with sinkbasin 1 
+Obs 9: You clean the spatula 1 using the sinkbasin 1.
+10: Act 10: think: Now that I have cleaned the spatula (1), I need to put it in a drawer. I should decide which drawer to use, so I'll start by going to drawer 1. If it's not suitable, I'll check the others. 
+Obs 10: OK.
+11: Act 11: go to drawer 1 
+Obs 11: OK.
+12: Act 12: look 
+Obs 12: OK.
+13: Act 13: look 
+Obs 13: You are facing the sinkbasin 1. Next to it, you see nothing.
+14: Act 14: think: I need to look inside drawer 1 to see if there's space or if it's suitable for placing the spatula. Since I am already at drawer 1, I should open it to check. 
+Obs 14: OK.
+15: Act 15: open drawer 1 
+Obs 15: Nothing happens.
+16: Act 16: think: It seems there was an issue with opening drawer 1. I should try opening it again to see if I can access it properly. If it still doesn't work, I may need to try another drawer. 
+Obs 16: OK.
+17: Act 17: open drawer 1 
+Obs 17: Nothing happens.
+18: Act 18: think: It seems there is an issue with opening drawer 1. I should try going to another drawer, such as drawer 2, and attempt to open it to see if I can place the spatula there. 
+Obs 18: OK.
+19: Act 19: go to drawer 2 
+Obs 19: The drawer 2 is closed.
+20: Act 20: open drawer 2 
+Obs 20: You open the drawer 2. The drawer 2 is open. In it, you see a peppershaker 1, and a saltshaker 1.
+21: Act 21: think: Now that drawer 2 is open and I can see inside, I should put the clean spatula in it. There seems to be enough space alongside the peppershaker and saltshaker. 
+Obs 21: OK.
+22: Act 22: put spatula 1 in/on drawer 2 
+Obs 22: You put the spatula 1 in/on the drawer 2.

@@ -1,0 +1,28 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: clean some soapbar and put it in cabinet.
+1: Act 1: think: To solve the task, I need to find and take a soapbar, then clean it with sinkbasin, and finally put it in a cabinet. First, I need to find a soapbar. A soapbar is more likely to appear in the sinkbasin, toilet, or garbagecan. Let me ask where I should start first. 
+Obs 1: OK.
+2: Act 2: speak: I think a soapbar is more likely to appear in the sinkbasin, toilet, or garbagecan. Where should I look for the soapbar first? 
+Obs 2: Human: Could you please check the toilet first?
+3: Act 3: go to toilet 1 
+Obs 3: On the toilet 1, you see a soapbar 1, and a spraybottle 3.
+4: Act 4: think: Now that I have found a soapbar (1) in the toilet, I need to take it. 
+Obs 4: OK.
+5: Act 5: take soapbar 1 from toilet 1 
+Obs 5: You pick up the soapbar 1 from the toilet 1.
+6: Act 6: think: Now that I have taken the soapbar (1), I need to go to a sinkbasin to clean it. There are two sinkbasins available: sinkbasin 1 and sinkbasin 2. I will go to sinkbasin 1 first. 
+Obs 6: OK.
+7: Act 7: go to sinkbasin 1 
+Obs 7: On the sinkbasin 1, you see nothing.
+8: Act 8: clean soapbar 1 with sinkbasin 1 
+Obs 8: You clean the soapbar 1 using the sinkbasin 1.
+9: Act 9: think: Now that I have cleaned the soapbar (1), I need to put it in a cabinet. There are four cabinets available: cabinet 1, cabinet 2, cabinet 3, and cabinet 4. I will go to cabinet 1 first. 
+Obs 9: OK.
+10: Act 10: go to cabinet 1 
+Obs 10: The cabinet 1 is closed.
+11: Act 11: think: The cabinet 1 is closed, so I need to open it before I can put the soapbar inside. 
+Obs 11: OK.
+12: Act 12: open cabinet 1 
+Obs 12: You open the cabinet 1. The cabinet 1 is open. In it, you see a soapbottle 2.
+13: Act 13: put soapbar 1 in/on cabinet 1 
+Obs 13: You put the soapbar 1 in/on the cabinet 1.

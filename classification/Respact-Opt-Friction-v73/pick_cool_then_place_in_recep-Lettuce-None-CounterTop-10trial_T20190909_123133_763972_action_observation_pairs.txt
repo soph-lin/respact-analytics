@@ -1,0 +1,42 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: cool some lettuce and put it in countertop.
+1: > think: To solve the task, I need to find and take some lettuce, then cool it with the fridge, and finally put it on the countertop.
+OK.
+2: > think: First, I need to find some lettuce. Lettuce is more likely to appear in the fridge, cabinet, or drawer. Let me check with the user where to look first.
+OK.
+3: > speak: Where should I look for the lettuce first?
+Human: You should look for the lettuce on countertop 2 first.
+4: > go to countertop 2
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to countertop 2
+On the countertop 2, you see a butterknife 1, a creditcard 2, a creditcard 1, a cup 1, a knife 1, a lettuce 1, a plate 2, and a spatula 1.
+6: > take lettuce 1 from countertop 2
+Wrong response format. Please specify if it is a think, speak or act response.
+7: > act: take lettuce 1 from countertop 2
+You pick up the lettuce 1 from the countertop 2.
+8: > think: Now that I have the lettuce, I need to go to the fridge and cool it. Let me confirm with the user.
+OK.
+9: > speak: I have found the lettuce. Should I cool it with the fridge?
+Human: No, you should first take the lettuce from countertop 2.
+10: > speak: I have already taken the lettuce from countertop 2. Should I cool it with the fridge now?
+Human: Yes, please cool the lettuce with the fridge now.
+11: > think: Now that I have the lettuce, I need to go to the fridge and cool it.
+OK.
+12: > act: go to fridge 1
+The fridge 1 is closed.
+13: > act: open fridge 1
+You open the fridge 1. The fridge 1 is open. In it, you see a apple 1, a bread 1, a plate 1, a potato 1, and a tomato 2.
+14: > think: Now that the fridge is open, I need to cool the lettuce with the fridge.
+OK.
+15: > act: cool lettuce 1 with fridge 1
+You cool the lettuce 1 using the fridge 1.
+16: > think: Now that the lettuce is cooled, I need to put it on the countertop. Let me confirm with the user which countertop to use.
+OK.
+17: > speak: I have cooled the lettuce. Which countertop should I put it on?
+Human: You should put the lettuce on countertop 2.
+18: > think: To solve the task, I need to put the cooled lettuce on countertop 2.
+OK.
+19: > act: go to countertop 2
+On the countertop 2, you see a butterknife 1, a creditcard 2, a creditcard 1, a cup 1, a knife 1, a plate 2, and a spatula 1.
+20: > act: put lettuce 1 in/on countertop 2
+You put the lettuce 1 in/on the countertop 2.

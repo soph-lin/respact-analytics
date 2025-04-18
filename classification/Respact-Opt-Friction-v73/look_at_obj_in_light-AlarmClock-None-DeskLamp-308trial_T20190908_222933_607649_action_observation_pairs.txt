@@ -1,0 +1,28 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: examine the alarmclock with the desklamp.
+1: > think: To solve the task, I need to find and take an alarmclock, then find and use a desklamp. First, I need to find an alarmclock. An alarmclock is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for an alarmclock. An alarmclock is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Where should I look first?
+Human: You should look for the alarmclock on desk 2 first.
+3: > go to desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > act: go to desk 2
+On the desk 2, you see a alarmclock 1, a keychain 2, and a mug 1.
+5: > think: Now I find an alarmclock 1. Next, I need to take it.
+OK.
+6: > take alarmclock 1 from desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+7: > act: take alarmclock 1 from desk 2
+You pick up the alarmclock 1 from the desk 2.
+8: > think: Now that I have the alarmclock, I need to find a desklamp to examine it. A desklamp is likely to be found on a desk, shelf, or sidetable. Let me check with the user to confirm where to look first.
+OK.
+9: > speak: I have the alarmclock. I am looking for a desklamp now. A desklamp is likely to be found on a desk, shelf, or sidetable. Where should I look first?
+Human: Sure, that sounds good to me.
+10: > speak: Where should I look for the desklamp first?
+Human: You should look for the desklamp on desk 1.
+11: > act: go to desk 1
+On the desk 1, you see a bowl 1, a desklamp 1, and a laptop 2.
+12: > think: Now I find a desklamp 1 on desk 1. Next, I need to use it to examine the alarmclock.
+OK.
+13: > act: use desklamp 1
+You turn on the desklamp 1.

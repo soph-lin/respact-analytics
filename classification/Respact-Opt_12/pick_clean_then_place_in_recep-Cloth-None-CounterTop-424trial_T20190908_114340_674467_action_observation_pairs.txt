@@ -1,0 +1,28 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: clean some cloth and put it in countertop.
+1: Act 1: think: To solve the task, I need to find and take a cloth, then clean it with sinkbasin, and finally put it in countertop. 
+Obs 1: OK.
+2: Act 2: think: First, I need to find a cloth. A cloth is more likely to appear in cabinets (1-4), countertop (1), handtowelholders (1-2), towelholder (1), garbagecan (1). Let me ask where I should start first. 
+Obs 2: OK.
+3: Act 3: speak: I think a cloth is more likely to appear in cabinets (1-4), countertop (1), handtowelholders (1-2), towelholder (1), garbagecan (1). Where should I look for the cloth first? 
+Obs 3: Human: Can you please check the cabinet 1?
+4: Act 4: go to cabinet 1 
+Obs 4: The cabinet 1 is closed.
+5: Act 5: open cabinet 1 
+Obs 5: You open the cabinet 1. The cabinet 1 is open. In it, you see a cloth 2.
+6: Act 6: think: Now that I have found a cloth (2) in the cabinet 1, I need to take it and then proceed to clean it with a sinkbasin. 
+Obs 6: OK.
+7: Act 7: take cloth 2 from cabinet 1 
+Obs 7: You pick up the cloth 2 from the cabinet 1.
+8: Act 8: think: Now that I have taken the cloth (2), I need to go to a sinkbasin to clean it. There are two sinkbasins available: sinkbasin 1 and sinkbasin 2. I will go to sinkbasin 1 first. 
+Obs 8: OK.
+9: Act 9: go to sinkbasin 1 
+Obs 9: On the sinkbasin 1, you see nothing.
+10: Act 10: clean cloth 2 with sinkbasin 1 
+Obs 10: You clean the cloth 2 using the sinkbasin 1.
+11: Act 11: think: Now that I have cleaned the cloth (2), I need to put it in/on the countertop. I will go to the countertop next. 
+Obs 11: OK.
+12: Act 12: go to countertop 1 
+Obs 12: On the countertop 1, you see a soapbottle 1, and a spraybottle 1.
+13: Act 13: put cloth 2 in/on countertop 1 
+Obs 13: You put the cloth 2 in/on the countertop 1.

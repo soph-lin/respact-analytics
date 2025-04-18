@@ -1,0 +1,32 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: look at bowl under the desklamp.
+1: > think: To solve the task, I need to find and take a bowl, then find and use a desklamp.
+OK.
+2: > think: First I need to find a bowl. A bowl is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Let me check with the user.
+OK.
+3: > speak: I am looking for the bowl. Where do you suggest I look for it first?
+Human: You should look for the bowl on desk 2 first.
+4: > go to desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to desk 2
+On the desk 2, you see a bowl 2, a bowl 1, a cd 2, a cd 1, and a creditcard 3.
+6: > think: Now I find two bowls on desk 2. Next, I need to take one of them.
+OK.
+7: > take bowl 1 from desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+8: > act: take bowl 1 from desk 2
+You pick up the bowl 1 from the desk 2.
+9: > think: Now I have the bowl. Next, I need to find a desklamp to examine it. Let me ask where the desklamp is.
+OK.
+10: > speak: I found the bowl. I am looking for a desklamp now. Where should I look for it?
+Human: Please reflect on your action sequence. Did you go to desk 1 after taking the bowl from desk 2?
+11: > think: I did not go to desk 1 after taking the bowl from desk 2. I need to find a desklamp to examine the bowl. Let me ask where the desklamp is.
+OK.
+12: > speak: I found the bowl. I am looking for a desklamp now. Where should I look for it?
+Human: You should look for the desklamp on desk 1.
+13: > act: go to desk 1
+On the desk 1, you see a alarmclock 1, a desklamp 1, a mug 1, and a pencil 1.
+14: > think: Now I find a desklamp on desk 1. Next, I need to use it to examine the bowl.
+OK.
+15: > act: use desklamp 1
+You turn on the desklamp 1.

@@ -1,0 +1,44 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: find two toiletpaper and put them in cabinet.
+1: Act 1: think: To solve the task, I need to find and take the first toiletpaper, then put it in cabinet, then find and take the second toiletpaper, then put it in cabinet. A toiletpaper is more likely to appear in cabinet (1-4), countertop (1), or toiletpaperhanger (1). Let me ask where to look for the toiletpapers first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find the toiletpapers. A toiletpaper is more likely to appear in cabinet (1-4), countertop (1), or toiletpaperhanger (1). Where do you suggest I should look for the toiletpapers first? 
+Obs 2: Human: Can you please check the toilet 1 first?
+3: Act 3: speak: The toilet 1 is not a likely place to find toiletpaper. A toiletpaper is more likely to appear in cabinet (1-4), countertop (1), or toiletpaperhanger (1). Would you like me to check one of these locations instead? 
+Obs 3: Human: Please check the toilet 1 for the toiletpaper.
+4: Act 4: speak: I understand your request. However, based on the typical locations for toiletpaper, it is more likely to be found in cabinet (1-4), countertop (1), or toiletpaperhanger (1). Would you like me to proceed with checking one of these locations instead? 
+Obs 4: Human: Could you please check the toilet 1 first?
+5: Act 5: speak: I understand your request. I will check the toilet 1 for the toiletpaper as you asked. 
+Obs 5: Human: Great! Please go ahead and check the toilet 1 for the toiletpaper.
+6: Act 6: go to toilet 1 
+Obs 6: On the toilet 1, you see a soapbar 3, a soapbar 2, and a toiletpaper 3.
+7: Act 7: think: I have found the first toiletpaper (3) on the toilet 1. Next, I need to take it and then put it in a cabinet. After that, I will need to find the second toiletpaper. 
+Obs 7: OK.
+8: Act 8: take toiletpaper 3 from toilet 1 
+Obs 8: You pick up the toiletpaper 3 from the toilet 1.
+9: Act 9: think: Now that I have taken the first toiletpaper (3), I need to put it in one of the cabinets. After that, I will proceed to find the second toiletpaper. 
+Obs 9: OK.
+10: Act 10: go to cabinet 1 
+Obs 10: The cabinet 1 is closed.
+11: Act 11: open cabinet 1 
+Obs 11: You open the cabinet 1. The cabinet 1 is open. In it, you see a candle 2, and a cloth 1.
+12: Act 12: put toiletpaper 3 in/on cabinet 1 
+Obs 12: You put the toiletpaper 3 in/on the cabinet 1.
+13: Act 13: think: Now that I have put the first toiletpaper in cabinet 1, I need to find the second toiletpaper. I should check the remaining likely locations: cabinet (2-4), countertop (1), or toiletpaperhanger (1). Let me ask where to look for the second toiletpaper next. 
+Obs 13: OK.
+14: Act 14: speak: I have put the first toiletpaper in cabinet 1. Next, I need to find the second toiletpaper. I should check the remaining likely locations: cabinet (2-4), countertop (1), or toiletpaperhanger (1). Where do you suggest I should look for the second toiletpaper next? 
+Obs 14: Human: Please check the countertop 1 for the second toiletpaper.
+15: Act 15: go to countertop 1 
+Obs 15: On the countertop 1, you see a candle 3, a candle 1, a soapbottle 1, a spraybottle 2, and a toiletpaper 1.
+16: Act 16: take toiletpaper 1 from countertop 1 
+Obs 16: On the countertop 1, you see a candle 3, a candle 1, a soapbottle 1, a spraybottle 2, and a toiletpaper 1.
+17: Act 17: think: I have found the second toiletpaper (1) on the countertop 1. Next, I need to take it and then put it in a cabinet. This will complete the task. 
+Obs 17: OK.
+18: Act 18: take toiletpaper 1 from countertop 1 
+Obs 18: You pick up the toiletpaper 1 from the countertop 1.
+19: Act 19: think: Now that I have taken the second toiletpaper (1), I need to put it in one of the cabinets to complete the task. Since cabinet 1 already contains the first toiletpaper, I can put the second one there as well. 
+Obs 19: OK.
+20: Act 20: go to cabinet 1 
+Obs 20: The cabinet 1 is open. In it, you see a candle 2, a cloth 1, and a toiletpaper 3.
+21: Act 21: put toiletpaper 1 in/on cabinet 1 
+Obs 21: You put the toiletpaper 1 in/on the cabinet 1.

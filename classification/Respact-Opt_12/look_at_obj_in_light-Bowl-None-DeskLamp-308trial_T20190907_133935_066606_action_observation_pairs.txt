@@ -1,0 +1,20 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: look at bowl under the desklamp.
+1: Act 1: think: To solve the task, I need to find and take a bowl, then find and use a desklamp. First, I need to find a bowl. A bowl is more likely to appear in desk (1-2), shelf (1-6), or possibly on a bed (1). Let me ask where to look for the bowl first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a bowl. A bowl is more likely to appear in desk (1-2), shelf (1-6), or possibly on a bed (1). Where do you suggest I should look for the bowl first? 
+Obs 2: Human: Can you please check desk 2?
+3: Act 3: go to desk 2 
+Obs 3: On the desk 2, you see a bowl 2, a bowl 1, a cd 2, a cd 1, and a creditcard 3.
+4: Act 4: think: Now I find a bowl (1 and 2). Next, I need to take one of them. I'll take bowl 1. After that, I need to find a desklamp. A desklamp is more likely to appear in desk (1-2), shelf (1-6), or possibly on a bed (1). Let me ask where to look for the desklamp. 
+Obs 4: OK.
+5: Act 5: take bowl 1 from desk 2 
+Obs 5: You pick up the bowl 1 from the desk 2.
+6: Act 6: speak: I need to find a desklamp. A desklamp is more likely to appear in desk (1-2), shelf (1-6), or possibly on a bed (1). Where do you suggest I should look for the desklamp first? 
+Obs 6: Human: Can you please check desk 1?
+7: Act 7: go to desk 1 
+Obs 7: On the desk 1, you see a alarmclock 1, a desklamp 1, a mug 1, and a pencil 1.
+8: Act 8: think: Now I find a desklamp (1) on desk 1. Next, I need to use it to complete the task. 
+Obs 8: OK.
+9: Act 9: use desklamp 1 
+Obs 9: You turn on the desklamp 1.

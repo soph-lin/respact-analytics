@@ -1,0 +1,18 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: put a mug in desk.
+1: Act 1: think: To solve the task, I need to find and take a mug, then put it in a desk. A mug is more likely to appear on desks (1-2), shelves (1-6), or possibly in drawers (1-6). Let me ask where to look for the mug first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a mug. A mug is more likely to appear on desks (1-2), shelves (1-6), or possibly in drawers (1-6). Where do you suggest I should look for the mug first? 
+Obs 2: Human: Can you please check shelf 2?
+3: Act 3: go to shelf 2 
+Obs 3: On the shelf 2, you see a mug 1.
+4: Act 4: think: Now I find a mug (1) on shelf 2. Next, I need to take it and then put it in a desk. 
+Obs 4: OK.
+5: Act 5: take mug 1 from shelf 2 
+Obs 5: You pick up the mug 1 from the shelf 2.
+6: Act 6: think: Now that I have the mug (1), I need to put it in a desk. I should go to one of the desks to complete the task. 
+Obs 6: OK.
+7: Act 7: go to desk 1 
+Obs 7: On the desk 1, you see a alarmclock 1, a bowl 1, a cd 1, a desklamp 1, and a laptop 1.
+8: Act 8: put mug 1 in/on desk 1 
+Obs 8: You put the mug 1 in/on the desk 1.

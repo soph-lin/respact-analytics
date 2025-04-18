@@ -1,0 +1,36 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: clean some soapbar and put it in countertop.
+1: > think: To solve the task, I need to find and take a soapbar, then clean it with sinkbasin, then put it in countertop.
+OK.
+2: > think: First I need to find a soapbar. A soapbar is more likely to appear in sinkbasin (1-2), cabinet (1-4), countertop (1), handtowelholder (1-2), towelholder (1). Let me confirm with human.
+OK.
+3: > speak: I am looking for a soapbar. A soapbar is more likely to appear in sinkbasin (1-2), cabinet (1-4), countertop (1), handtowelholder (1-2), towelholder (1). Where should I look first?
+Human: Please look for the soapbar in toilet 1 first.
+4: > think: The user suggested looking for the soapbar in toilet 1 first. Although it is not a common place for a soapbar, I will follow the user's suggestion.
+OK.
+5: > go to toilet 1
+Wrong response format. Please specify if it is a think, speak or act response.
+6: > think: The user suggested looking for the soapbar in toilet 1 first. Although it is not a common place for a soapbar, I will follow the user's suggestion.
+OK.
+7: > act: go to toilet 1
+On the toilet 1, you see a soapbar 2, and a soapbottle 2.
+8: > think: Now I find a soapbar (2). Next, I need to take it.
+OK.
+9: > act: take soapbar 2 from toilet 1
+You pick up the soapbar 2 from the toilet 1.
+10: > think: Now that I have the soapbar, I need to go to sinkbasin 1 or sinkbasin 2 to clean it.
+OK.
+11: > act: go to sinkbasin 1
+On the sinkbasin 1, you see nothing.
+12: > speak: I am unable to clean the soapbar with sinkbasin 1 as it is empty. Should I try sinkbasin 2 instead?
+Human: That's okay, please clean the soapbar with sinkbasin 1.
+13: > think: The user suggested cleaning the soapbar with sinkbasin 1 even though it appears empty. I will proceed with the cleaning action.
+OK.
+14: > act: clean soapbar 2 with sinkbasin 1
+You clean the soapbar 2 using the sinkbasin 1.
+15: > think: Now that I have cleaned the soapbar, I need to go to the countertop and put it there.
+OK.
+16: > act: go to countertop 1
+On the countertop 1, you see a soapbar 1, and a spraybottle 1.
+17: > act: put soapbar 2 in/on countertop 1
+You put the soapbar 2 in/on the countertop 1.

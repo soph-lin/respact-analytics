@@ -1,0 +1,24 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: put some soapbottle on toilet.
+1: > think: To solve the task, I need to find and take a soapbottle, then put it on the toilet.
+OK.
+2: > think: First I need to find a soapbottle. A soapbottle is more likely to appear in cabinet (1-4), countertop (1), sinkbasin (1-2), and possibly on the toilet (1). Let me check with the user.
+OK.
+3: > speak: Where should I look for the soapbottle first?
+Human: You should look for the soapbottle on countertop 1.
+4: > go to countertop 1
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to countertop 1
+On the countertop 1, you see a soapbottle 3, and a soapbottle 1.
+6: > think: Now I see two soapbottles on the countertop 1. I need to take one of them and put it on the toilet.
+OK.
+7: > take soapbottle 1 from countertop 1
+Wrong response format. Please specify if it is a think, speak or act response.
+8: > act: take soapbottle 1 from countertop 1
+You pick up the soapbottle 1 from the countertop 1.
+9: > think: Now that I have the soapbottle 1, I need to go to the toilet and put it there.
+OK.
+10: > act: go to toilet 1
+On the toilet 1, you see a candle 2.
+11: > act: put soapbottle 1 in/on toilet 1
+You put the soapbottle 1 in/on the toilet 1.

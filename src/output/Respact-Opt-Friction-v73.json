@@ -1,0 +1,275 @@
+{
+  "total_conversations": 66,
+  "successful_conversations": 66,
+  "success_rate": 1.0,
+  "avg_speak_turns_all": 2.1515151515151514,
+  "avg_speak_turns_successful": 2.1515151515151514,
+  "avg_tokens_per_speak_all": 20.198737373737373,
+  "avg_tokens_per_speak_successful": 20.198737373737373,
+  "speak_type_distribution": {
+    "question": 141,
+    "other": 1
+  },
+  "total_files_analyzed": 66,
+  "avg_lines_per_file": 34.60606060606061,
+  "min_total_lines": 20,
+  "max_total_lines": 84,
+  "files_with_min_lines": 1,
+  "files_with_max_lines": 1,
+  "min_speak_lines": 1,
+  "max_speak_lines": 5,
+  "files_with_min_speak_lines": 19,
+  "files_with_max_speak_lines": 1,
+  "task_analysis": {
+    "look_at_obj_in_light": {
+      "total_files": 17,
+      "successful_files": 17,
+      "success_rate": 1.0,
+      "avg_speak_turns": 2.0588235294117645,
+      "avg_tokens_per_speak": 21.19607843137255,
+      "min_total_lines": 20,
+      "max_total_lines": 62,
+      "files_with_min_lines": 1,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 3,
+      "files_with_min_speak_lines": 2,
+      "files_with_max_speak_lines": 3,
+      "files_with_10_15_lines": []
+    },
+    "pick_and_place_simple": {
+      "total_files": 9,
+      "successful_files": 9,
+      "success_rate": 1.0,
+      "avg_speak_turns": 2.2222222222222223,
+      "avg_tokens_per_speak": 23.605555555555554,
+      "min_total_lines": 24,
+      "max_total_lines": 84,
+      "files_with_min_lines": 2,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 5,
+      "files_with_min_speak_lines": 3,
+      "files_with_max_speak_lines": 1,
+      "files_with_10_15_lines": []
+    },
+    "pick_clean_then_place_in_recep": {
+      "total_files": 15,
+      "successful_files": 15,
+      "success_rate": 1.0,
+      "avg_speak_turns": 1.4666666666666666,
+      "avg_tokens_per_speak": 21.666666666666668,
+      "min_total_lines": 26,
+      "max_total_lines": 54,
+      "files_with_min_lines": 1,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 2,
+      "files_with_min_speak_lines": 8,
+      "files_with_max_speak_lines": 7,
+      "files_with_10_15_lines": []
+    },
+    "pick_cool_then_place_in_recep": {
+      "total_files": 14,
+      "successful_files": 14,
+      "success_rate": 1.0,
+      "avg_speak_turns": 2.857142857142857,
+      "avg_tokens_per_speak": 16.642857142857142,
+      "min_total_lines": 22,
+      "max_total_lines": 46,
+      "files_with_min_lines": 1,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 4,
+      "files_with_min_speak_lines": 2,
+      "files_with_max_speak_lines": 6,
+      "files_with_10_15_lines": []
+    },
+    "pick_heat_then_place_in_recep": {
+      "total_files": 7,
+      "successful_files": 7,
+      "success_rate": 1.0,
+      "avg_speak_turns": 2.142857142857143,
+      "avg_tokens_per_speak": 19.083333333333332,
+      "min_total_lines": 34,
+      "max_total_lines": 48,
+      "files_with_min_lines": 2,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 4,
+      "files_with_min_speak_lines": 2,
+      "files_with_max_speak_lines": 1,
+      "files_with_10_15_lines": []
+    },
+    "pick_two_obj_and_place": {
+      "total_files": 4,
+      "successful_files": 4,
+      "success_rate": 1.0,
+      "avg_speak_turns": 2.5,
+      "avg_tokens_per_speak": 17.1875,
+      "min_total_lines": 38,
+      "max_total_lines": 58,
+      "files_with_min_lines": 2,
+      "files_with_max_lines": 1,
+      "min_speak_lines": 1,
+      "max_speak_lines": 4,
+      "files_with_min_speak_lines": 2,
+      "files_with_max_speak_lines": 2,
+      "files_with_10_15_lines": []
+    }
+  },
+  "intersect": {
+    "look_at_obj_in_light": [
+      {
+        "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222951_616606_action_observation_pairs.txt",
+        "total_lines": 20,
+        "speak_lines": 1
+      },
+      {
+        "filename": "look_at_obj_in_light-CD-None-DeskLamp-308trial_T20190908_142046_281296_action_observation_pairs.txt",
+        "total_lines": 22,
+        "speak_lines": 1
+      },
+      {
+        "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222933_607649_action_observation_pairs.txt",
+        "total_lines": 28,
+        "speak_lines": 3
+      },
+      {
+        "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133919_856963_action_observation_pairs.txt",
+        "total_lines": 32,
+        "speak_lines": 3
+      },
+      {
+        "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133935_066606_action_observation_pairs.txt",
+        "total_lines": 32,
+        "speak_lines": 3
+      }
+    ],
+    "pick_and_place_simple": [
+      {
+        "filename": "pick_and_place_simple-Pencil-None-Shelf-308trial_T20190908_122024_052056_action_observation_pairs.txt",
+        "total_lines": 28,
+        "speak_lines": 2
+      },
+      {
+        "filename": "pick_and_place_simple-Vase-None-Safe-219trial_T20190908_205221_748352_action_observation_pairs.txt",
+        "total_lines": 30,
+        "speak_lines": 2
+      },
+      {
+        "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+        "total_lines": 84,
+        "speak_lines": 5
+      },
+      {
+        "filename": "pick_and_place_simple-Mug-None-Desk-308trial_T20190909_210238_431966_action_observation_pairs.txt",
+        "total_lines": 50,
+        "speak_lines": 4
+      }
+    ],
+    "pick_clean_then_place_in_recep": [
+      {
+        "filename": "pick_clean_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_221300_362511_action_observation_pairs.txt",
+        "total_lines": 28,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_clean_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_221355_558505_action_observation_pairs.txt",
+        "total_lines": 28,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_clean_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_032434_013084_action_observation_pairs.txt",
+        "total_lines": 32,
+        "speak_lines": 2
+      },
+      {
+        "filename": "pick_clean_then_place_in_recep-Plate-None-CounterTop-10trial_T20190908_213533_897289_action_observation_pairs.txt",
+        "total_lines": 32,
+        "speak_lines": 2
+      },
+      {
+        "filename": "pick_clean_then_place_in_recep-SoapBar-None-CounterTop-424trial_T20190907_074124_966890_action_observation_pairs.txt",
+        "total_lines": 36,
+        "speak_lines": 2
+      }
+    ],
+    "pick_cool_then_place_in_recep": [
+      {
+        "filename": "pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_183853_958104_action_observation_pairs.txt",
+        "total_lines": 22,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_cool_then_place_in_recep-Tomato-None-Microwave-10trial_T20190909_102608_318800_action_observation_pairs.txt",
+        "total_lines": 38,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121635_622676_action_observation_pairs.txt",
+        "total_lines": 34,
+        "speak_lines": 4
+      },
+      {
+        "filename": "pick_cool_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_114545_244903_action_observation_pairs.txt",
+        "total_lines": 34,
+        "speak_lines": 4
+      },
+      {
+        "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121710_650938_action_observation_pairs.txt",
+        "total_lines": 36,
+        "speak_lines": 4
+      }
+    ],
+    "pick_heat_then_place_in_recep": [
+      {
+        "filename": "pick_heat_then_place_in_recep-Apple-None-GarbageCan-10trial_T20190908_145356_918528_action_observation_pairs.txt",
+        "total_lines": 34,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_heat_then_place_in_recep-Egg-None-GarbageCan-10trial_T20190908_113523_123938_action_observation_pairs.txt",
+        "total_lines": 36,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021200_669381_action_observation_pairs.txt",
+        "total_lines": 48,
+        "speak_lines": 4
+      },
+      {
+        "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021100_341887_action_observation_pairs.txt",
+        "total_lines": 42,
+        "speak_lines": 3
+      },
+      {
+        "filename": "pick_heat_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_171806_406231_action_observation_pairs.txt",
+        "total_lines": 34,
+        "speak_lines": 2
+      }
+    ],
+    "pick_two_obj_and_place": [
+      {
+        "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163240_345855_action_observation_pairs.txt",
+        "total_lines": 38,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163327_486300_action_observation_pairs.txt",
+        "total_lines": 38,
+        "speak_lines": 1
+      },
+      {
+        "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163408_914117_action_observation_pairs.txt",
+        "total_lines": 46,
+        "speak_lines": 4
+      },
+      {
+        "filename": "pick_two_obj_and_place-CD-None-Safe-308trial_T20190907_051013_060265_action_observation_pairs.txt",
+        "total_lines": 58,
+        "speak_lines": 4
+      }
+    ]
+  }
+}

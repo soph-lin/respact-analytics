@@ -1,0 +1,30 @@
+0: You are in the middle of a room. Looking quickly around you, you see a armchair 1, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a safe 1, a shelf 12, a shelf 11, a shelf 10, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 1, and a sofa 1.
+Your task is to: put some vase on safe.
+1: > think: To solve the task, I need to find and take a vase, then put it on the safe.
+OK.
+2: > think: First I need to find a vase. A vase is more likely to appear in cabinet (1-4), drawer (1-5), dresser (1), shelf (1-12), sidetable (1). Let me check with the user.
+OK.
+3: > speak: I need to find a vase. A vase is more likely to appear in cabinet (1-4), drawer (1-5), dresser (1), shelf (1-12), sidetable (1). Where do you suggest I should look for the vase first?
+Human: The vase is located in dresser 1. Please look for it there first.
+4: > go to dresser 1
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to dresser 1
+On the dresser 1, you see a laptop 1, a newspaper 2, a newspaper 1, a remotecontrol 1, a statue 2, and a vase 1.
+6: > think: Now I find a vase (1). Next, I need to take it.
+OK.
+7: > act: take vase 1 from dresser 1
+You pick up the vase 1 from the dresser 1.
+8: > think: Now I have the vase (1). Next, I need to put it on the safe.
+OK.
+9: > act: go to safe 1
+The safe 1 is closed.
+10: > think: The safe is closed. I need to open it first before placing the vase on it.
+OK.
+11: > speak: The safe is closed. Should I open it before placing the vase on it?
+Human: Yes, you should open the safe before placing the vase in it.
+12: > act: open safe 1
+You open the safe 1. The safe 1 is open. In it, you see a watch 2, and a watch 1.
+13: > think: Now that the safe is open, I can place the vase on it.
+OK.
+14: > act: put vase 1 in/on safe 1
+You put the vase 1 in/on the safe 1.

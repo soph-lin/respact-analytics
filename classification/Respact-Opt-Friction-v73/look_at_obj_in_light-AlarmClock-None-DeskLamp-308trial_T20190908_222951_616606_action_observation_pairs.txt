@@ -1,0 +1,20 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: look at alarmclock under the desklamp.
+1: > think: To solve the task, I need to find and take an alarmclock, then find and use a desklamp. First, I need to find an alarmclock. An alarmclock is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for an alarmclock. Where do you suggest I look for it first?
+Human: You should start by looking for the alarmclock on desk 1.
+3: > go to desk 1
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > act: go to desk 1
+On the desk 1, you see a alarmclock 1, a cd 3, a desklamp 1, a laptop 1, and a pencil 1.
+5: > think: Now I find an alarmclock 1. Next, I need to take it. After that, I will need to use the desklamp to examine it.
+OK.
+6: > take alarmclock 1 from desk 1
+Wrong response format. Please specify if it is a think, speak or act response.
+7: > act: take alarmclock 1 from desk 1
+You pick up the alarmclock 1 from the desk 1.
+8: > think: Now I have taken the alarmclock 1. Next, I need to use the desklamp to examine it. The desklamp is already on the desk 1, so I can use it directly.
+OK.
+9: > act: use desklamp 1
+You turn on the desklamp 1.

@@ -1,0 +1,30 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put some saltshaker on cabinet.
+1: Act 1: think: To solve the task, I need to find and take a saltshaker, then put it on a cabinet. I should first identify where a saltshaker is likely to be found. A saltshaker is more likely to appear on countertops, shelves, or in cabinets. Let me ask where to look for the saltshaker first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a saltshaker. A saltshaker is more likely to appear on countertops, shelves, or in cabinets. Where do you suggest I should look for the saltshaker first? 
+Obs 2: Human: Can you please check shelf 2?
+3: Act 3: go to shelf 2 
+Obs 3: On the shelf 2, you see a glassbottle 3, and a saltshaker 1.
+4: Act 4: think: Now that I have found a saltshaker (1) on shelf 2, I need to take it and then put it on a cabinet. 
+Obs 4: OK.
+5: Act 5: take saltshaker 1 from shelf 2 
+Obs 5: You pick up the saltshaker 1 from the shelf 2.
+6: Act 6: think: Now that I have taken the saltshaker (1), I need to put it on a cabinet. I should choose one of the cabinets to place it on. 
+Obs 6: OK.
+7: Act 7: go to cabinet 1 
+Obs 7: On the cabinet 1, you see a glassbottle 2.
+8: Act 8: put saltshaker 1 on cabinet 1 
+Obs 8: Nothing happens.
+9: Act 9: think: It seems there was an issue with placing the saltshaker on cabinet 1. I should try placing it on another cabinet. Let me choose another cabinet to try. 
+Obs 9: OK.
+10: Act 10: think: Since placing the saltshaker on cabinet 1 didn't work, I should try another cabinet. I'll go to cabinet 2 and attempt to place the saltshaker there. 
+Obs 10: OK.
+11: Act 11: go to cabinet 2 
+Obs 11: The cabinet 2 is closed.
+12: Act 12: open cabinet 2 
+Obs 12: You open the cabinet 2. The cabinet 2 is open. In it, you see a cup 1.
+13: Act 13: think: Now that cabinet 2 is open, I should try placing the saltshaker inside it. 
+Obs 13: OK.
+14: Act 14: put saltshaker 1 in/on cabinet 2 
+Obs 14: You put the saltshaker 1 in/on the cabinet 2.

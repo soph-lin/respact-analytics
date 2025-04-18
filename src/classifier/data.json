@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "line": "I need to find an alarm clock. An alarm clock is more likely to appear in desk (1-2), drawer (1-6), shelf (1-6), bed (1), garbagecan (1), laundryhamper (1). Where do you suggest I should look for the alarm clock first?",
+            "categories": ["Assumption Verification", "Probing Questions", "Contextual Assumption Reveal", "Plan-Level Probing"],
+        },
+        {
+            "line": "It seems like there was an issue with placing the vase on the safe. Let me try again to ensure the vase is properly placed on the safe.",
+            "categories": ["Alternative Suggestion", "Metacognitive Assumption Reveal", "Contextual Probing"],
+        }
+    ]
+}

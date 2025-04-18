@@ -1,0 +1,62 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: look at pencil under the desklamp.
+1: > think: To solve the task, I need to find and take a pencil, then find and use a desklamp. First, I need to find a pencil. A pencil is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for a pencil. A pencil is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Where do you suggest I look for it first?
+Human: Please look for the pencil in drawer 5 first.
+3: > go to drawer 5
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > act: go to drawer 5
+On the drawer 5, you see a pencil 2.
+5: 
+Wrong response format. Please specify if it is a think, speak or act response.
+6: 
+Wrong response format. Please specify if it is a think, speak or act response.
+7: 
+Wrong response format. Please specify if it is a think, speak or act response.
+8: 
+Wrong response format. Please specify if it is a think, speak or act response.
+9: 
+Wrong response format. Please specify if it is a think, speak or act response.
+10: 
+Wrong response format. Please specify if it is a think, speak or act response.
+11: 
+Wrong response format. Please specify if it is a think, speak or act response.
+12: 
+Wrong response format. Please specify if it is a think, speak or act response.
+13: 
+Wrong response format. Please specify if it is a think, speak or act response.
+14: 
+Wrong response format. Please specify if it is a think, speak or act response.
+15: 
+Wrong response format. Please specify if it is a think, speak or act response.
+16: 
+Wrong response format. Please specify if it is a think, speak or act response.
+17: 
+Wrong response format. Please specify if it is a think, speak or act response.
+18: 
+Wrong response format. Please specify if it is a think, speak or act response.
+19: 
+Wrong response format. Please specify if it is a think, speak or act response.
+20: 
+Wrong response format. Please specify if it is a think, speak or act response.
+21: 
+Wrong response format. Please specify if it is a think, speak or act response.
+22: 
+Wrong response format. Please specify if it is a think, speak or act response.
+23: > think: Now I have found a pencil in drawer 5. Next, I need to take it.
+OK.
+24: > act: take pencil 2 from drawer 5
+You pick up the pencil 2 from the drawer 5.
+25: > think: Now I have taken the pencil. Next, I need to find a desklamp to examine it. Let me check with the user where the desklamp might be.
+OK.
+26: > speak: I have found the pencil. I am looking for a desklamp now. Where should I look for it?
+Human: Can you reflect on what actions you took after taking pencil 2 from drawer 5? Did you go to desk 1?
+27: > think: After taking the pencil from drawer 5, I did not go to desk 1. I should first go to desk 1 to find the desklamp.
+OK.
+28: > act: go to desk 1
+On the desk 1, you see a bowl 2, a creditcard 2, a desklamp 1, a laptop 1, a mug 1, and a pen 2.
+29: > think: Now I have found a desklamp on desk 1. Next, I need to use it to examine the pencil.
+OK.
+30: > act: use desklamp 1
+You turn on the desklamp 1.

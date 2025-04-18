@@ -1,0 +1,349 @@
+{
+  "look_at_obj_in_light": [
+    {
+      "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222951_616606_action_observation_pairs.txt",
+      "line": 5,
+      "content": "I am looking for an alarmclock. Where do you suggest I look for it first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-CD-None-DeskLamp-308trial_T20190908_142046_281296_action_observation_pairs.txt",
+      "line": 5,
+      "content": "I am looking for a cd. A cd is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Where should I look first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222933_607649_action_observation_pairs.txt",
+      "line": 5,
+      "content": "I am looking for an alarmclock. An alarmclock is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Where should I look first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222933_607649_action_observation_pairs.txt",
+      "line": 19,
+      "content": "I have the alarmclock. I am looking for a desklamp now. A desklamp is likely to be found on a desk, shelf, or sidetable. Where should I look first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-AlarmClock-None-DeskLamp-308trial_T20190908_222933_607649_action_observation_pairs.txt",
+      "line": 21,
+      "content": "Where should I look for the desklamp first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133919_856963_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a bowl. Where do you suggest I look for it first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133919_856963_action_observation_pairs.txt",
+      "line": 21,
+      "content": "I found the bowl. I am looking for a desklamp now. Where should I look for it?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133919_856963_action_observation_pairs.txt",
+      "line": 25,
+      "content": "I have not yet gone to desk 1. Should I check desk 1 for the desklamp?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133935_066606_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for the bowl. Where do you suggest I look for it first?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133935_066606_action_observation_pairs.txt",
+      "line": 21,
+      "content": "I found the bowl. I am looking for a desklamp now. Where should I look for it?"
+    },
+    {
+      "filename": "look_at_obj_in_light-Bowl-None-DeskLamp-308trial_T20190907_133935_066606_action_observation_pairs.txt",
+      "line": 25,
+      "content": "I found the bowl. I am looking for a desklamp now. Where should I look for it?"
+    }
+  ],
+  "pick_and_place_simple": [
+    {
+      "filename": "pick_and_place_simple-Pencil-None-Shelf-308trial_T20190908_122024_052056_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a pencil. A pencil is more likely to appear in desks (1-2), drawers (1-6), and shelves (1-6). Where do you suggest I should look for the pencil first?"
+    },
+    {
+      "filename": "pick_and_place_simple-Pencil-None-Shelf-308trial_T20190908_122024_052056_action_observation_pairs.txt",
+      "line": 23,
+      "content": "Which shelf would you like me to put the pencil in? There are six shelves (1-6) in the room."
+    },
+    {
+      "filename": "pick_and_place_simple-Vase-None-Safe-219trial_T20190908_205221_748352_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a vase. A vase is more likely to appear in cabinet (1-4), drawer (1-5), dresser (1), shelf (1-12), sidetable (1). Where do you suggest I should look for the vase first?"
+    },
+    {
+      "filename": "pick_and_place_simple-Vase-None-Safe-219trial_T20190908_205221_748352_action_observation_pairs.txt",
+      "line": 23,
+      "content": "The safe is closed. Should I open it before placing the vase on it?"
+    },
+    {
+      "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a saltshaker. A saltshaker is more likely to appear in countertops (1-3), drawers (1-3), shelves (1-3), and diningtables (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+      "line": 51,
+      "content": "I am unable to put the saltshaker on cabinet 3. Can you help me?"
+    },
+    {
+      "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+      "line": 61,
+      "content": "I am unable to put the saltshaker on cabinet 4. Can you help me?"
+    },
+    {
+      "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+      "line": 65,
+      "content": "I am unable to put the saltshaker on cabinet 4. Can you help me?"
+    },
+    {
+      "filename": "pick_and_place_simple-SaltShaker-None-Cabinet-10trial_T20190906_191501_563086_action_observation_pairs.txt",
+      "line": 69,
+      "content": "I have tried to put the saltshaker on cabinet 3 and cabinet 4, but nothing happened. Is there a specific cabinet you want me to use?"
+    },
+    {
+      "filename": "pick_and_place_simple-Mug-None-Desk-308trial_T20190909_210238_431966_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. A mug is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Where do you suggest I should look for the mug first?"
+    },
+    {
+      "filename": "pick_and_place_simple-Mug-None-Desk-308trial_T20190909_210238_431966_action_observation_pairs.txt",
+      "line": 27,
+      "content": "I am unable to open the desk 1. Nothing happens. Can you help me?"
+    },
+    {
+      "filename": "pick_and_place_simple-Mug-None-Desk-308trial_T20190909_210238_431966_action_observation_pairs.txt",
+      "line": 37,
+      "content": "I am unable to open the desk 2. Nothing happens. Can you help me?"
+    },
+    {
+      "filename": "pick_and_place_simple-Mug-None-Desk-308trial_T20190909_210238_431966_action_observation_pairs.txt",
+      "line": 43,
+      "content": "I have already found the mug on shelf 2 and taken it. I went to desk 1 and desk 2, but I was unable to open either desk. Can you guide me on which desk to use or if there is another action I should take?"
+    }
+  ],
+  "pick_clean_then_place_in_recep": [
+    {
+      "filename": "pick_clean_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_221300_362511_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a mug. A mug is more likely to appear in diningtable (1-3), countertop (1-3), cabinet (1-6), drawer (1-3), shelf (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_221355_558505_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a mug. Where should I look for the mug first?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_032434_013084_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a pan. A pan is more likely to appear in stoveburner (1-4), sinkbasin (1), diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_032434_013084_action_observation_pairs.txt",
+      "line": 27,
+      "content": "I have cleaned the pan. There are three countertops in the room: countertop 1, countertop 2, and countertop 3. Which countertop should I use to put the pan?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-Plate-None-CounterTop-10trial_T20190908_213533_897289_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a plate. A plate is more likely to appear in cabinet (1-6), drawer (1-3), countertop (1-3), diningtable (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-Plate-None-CounterTop-10trial_T20190908_213533_897289_action_observation_pairs.txt",
+      "line": 21,
+      "content": "I am at the sinkbasin 1, but I see nothing here. Can you help me with the next step?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-SoapBar-None-CounterTop-424trial_T20190907_074124_966890_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I am looking for a soapbar. A soapbar is more likely to appear in sinkbasin (1-2), cabinet (1-4), countertop (1), handtowelholder (1-2), towelholder (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_clean_then_place_in_recep-SoapBar-None-CounterTop-424trial_T20190907_074124_966890_action_observation_pairs.txt",
+      "line": 25,
+      "content": "I am unable to clean the soapbar with sinkbasin 1 as it is empty. Should I try sinkbasin 2 instead?"
+    }
+  ],
+  "pick_cool_then_place_in_recep": [
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_183853_958104_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. I assume it is most likely to appear in countertop (1-3), coffeemachine (1), cabinet (1-6), shelf (1-3), drawer (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Tomato-None-Microwave-10trial_T20190909_102608_318800_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a tomato. I assume it is most likely to appear in countertop (1-3), cabinet (1-6), drawer (1-3), or fridge (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121635_622676_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. I assume it is most likely to appear in countertop (1-3), coffeemachine (1), cabinet (1-6), shelf (1-3), drawer (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121635_622676_action_observation_pairs.txt",
+      "line": 17,
+      "content": "I have found the mug. Should I cool it with the fridge?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121635_622676_action_observation_pairs.txt",
+      "line": 19,
+      "content": "I have already taken the mug from cabinet 3. Should I cool it with the fridge now?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121635_622676_action_observation_pairs.txt",
+      "line": 29,
+      "content": "I have cooled the mug. Which cabinet should I put it in?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_114545_244903_action_observation_pairs.txt",
+      "line": 7,
+      "content": "Where should I look for the pan first?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_114545_244903_action_observation_pairs.txt",
+      "line": 15,
+      "content": "I have found the pan, should I cool it with the fridge?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_114545_244903_action_observation_pairs.txt",
+      "line": 17,
+      "content": "I have already taken the pan from stoveburner 4. Should I proceed to cool it with the fridge?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Pan-None-CounterTop-10trial_T20190908_114545_244903_action_observation_pairs.txt",
+      "line": 29,
+      "content": "I have cooled the pan. Which countertop should I put it on?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121710_650938_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. I assume it is most likely to appear in countertop (1-3), coffeemachine (1), cabinet (1-6), shelf (1-3), drawer (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121710_650938_action_observation_pairs.txt",
+      "line": 15,
+      "content": "I have found the mug. Should I cool it with the fridge?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121710_650938_action_observation_pairs.txt",
+      "line": 27,
+      "content": "I have cooled the mug. Which cabinet should I put it in?"
+    },
+    {
+      "filename": "pick_cool_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_121710_650938_action_observation_pairs.txt",
+      "line": 33,
+      "content": "The cabinet 4 is already open. Should I proceed to put the mug in it?"
+    }
+  ],
+  "pick_heat_then_place_in_recep": [
+    {
+      "filename": "pick_heat_then_place_in_recep-Apple-None-GarbageCan-10trial_T20190908_145356_918528_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find an apple. I think an apple is most likely to be in fridge (1), diningtable (1), coffeetable (1), drawer (1), cabinet (1-6), garbagecan (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Egg-None-GarbageCan-10trial_T20190908_113523_123938_action_observation_pairs.txt",
+      "line": 5,
+      "content": "I need to find an egg. Where do you suggest I should look for the egg?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021200_669381_action_observation_pairs.txt",
+      "line": 9,
+      "content": "I need to find a mug. Where do you suggest I should look for the mug first?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021200_669381_action_observation_pairs.txt",
+      "line": 23,
+      "content": "I have found the mug in cabinet 4. Should I use the microwave to heat it?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021200_669381_action_observation_pairs.txt",
+      "line": 35,
+      "content": "I am unable to take the cup from the microwave. Nothing happens. Can you help me?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021200_669381_action_observation_pairs.txt",
+      "line": 43,
+      "content": "I have heated the mug. Which cabinet should I put it in?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021100_341887_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. I think a mug is most likely to be in diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3), or sinkbasin (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021100_341887_action_observation_pairs.txt",
+      "line": 9,
+      "content": "Where should I look for the mug first?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-Cabinet-10trial_T20190909_021100_341887_action_observation_pairs.txt",
+      "line": 35,
+      "content": "I have heated the mug. Which cabinet should I put it in?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_171806_406231_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find a mug. I think a mug is most likely to be in diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3). Where should I look first?"
+    },
+    {
+      "filename": "pick_heat_then_place_in_recep-Mug-None-CoffeeMachine-10trial_T20190907_171806_406231_action_observation_pairs.txt",
+      "line": 21,
+      "content": "I have found the mug on countertop 1. Should I use the microwave to heat it?"
+    }
+  ],
+  "pick_two_obj_and_place": [
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163240_345855_action_observation_pairs.txt",
+      "line": 7,
+      "content": "Where do you suggest I should look for the pillows first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163327_486300_action_observation_pairs.txt",
+      "line": 7,
+      "content": "Where do you suggest I should look for the pillows first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163408_914117_action_observation_pairs.txt",
+      "line": 7,
+      "content": "I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163408_914117_action_observation_pairs.txt",
+      "line": 9,
+      "content": "I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163408_914117_action_observation_pairs.txt",
+      "line": 11,
+      "content": "I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-Pillow-None-Sofa-219trial_T20190907_163408_914117_action_observation_pairs.txt",
+      "line": 13,
+      "content": "I need to find the pillows. A pillow is more likely to appear in armchair (1), sofa (1), bed (1), dresser (1), and sidetable (1). Where should I look first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-CD-None-Safe-308trial_T20190907_051013_060265_action_observation_pairs.txt",
+      "line": 7,
+      "content": "Where do you suggest I should look for the CDs first?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-CD-None-Safe-308trial_T20190907_051013_060265_action_observation_pairs.txt",
+      "line": 35,
+      "content": "Where do you suggest I should look for the second CD?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-CD-None-Safe-308trial_T20190907_051013_060265_action_observation_pairs.txt",
+      "line": 41,
+      "content": "The second CD is not on desk 2. Where do you suggest I should look next?"
+    },
+    {
+      "filename": "pick_two_obj_and_place-CD-None-Safe-308trial_T20190907_051013_060265_action_observation_pairs.txt",
+      "line": 45,
+      "content": "I went to desk 2 and found cd 2, which I then took and placed in the safe. Where do you suggest I should look for the second CD?"
+    }
+  ]
+}

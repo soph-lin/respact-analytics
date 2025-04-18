@@ -1,0 +1,20 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a saltshaker in drawer.
+1: Act 1: think: To solve the task, I need to find and take a saltshaker, then put it in a drawer. I should first identify where a saltshaker is likely to be found. A saltshaker is more likely to appear on countertops (1-3), shelves (1-3), or possibly in cabinets (1-6). I should ask where to look for the saltshaker first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a saltshaker. A saltshaker is more likely to appear on countertops (1-3), shelves (1-3), or possibly in cabinets (1-6). Where do you suggest I should look for the saltshaker first? 
+Obs 2: Human: I suggest you check cabinet 1 first.
+3: Act 3: go to cabinet 1 
+Obs 3: On the cabinet 1, you see a plate 1, and a saltshaker 1.
+4: Act 4: think: I have found a saltshaker (1) in cabinet 1. Now, I need to take it and then put it in a drawer. 
+Obs 4: OK.
+5: Act 5: take saltshaker 1 from cabinet 1 
+Obs 5: You pick up the saltshaker 1 from the cabinet 1.
+6: Act 6: think: Now that I have the saltshaker (1), I need to put it in a drawer. I should go to one of the drawers to complete the task. 
+Obs 6: OK.
+7: Act 7: go to drawer 1 
+Obs 7: The drawer 1 is closed.
+8: Act 8: open drawer 1 
+Obs 8: You open the drawer 1. The drawer 1 is open. In it, you see a creditcard 1.
+9: Act 9: put saltshaker 1 in/on drawer 1 
+Obs 9: You put the saltshaker 1 in/on the drawer 1.

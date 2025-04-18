@@ -1,0 +1,26 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: examine the cd with the desklamp.
+1: > think: To solve the task, I need to find and take a cd, then find and use a desklamp. First, I need to find a cd. A cd is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for a cd. A cd is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Where should I look first?
+Human: You should look in garbagecan 1 first.
+3: > go to garbagecan 1
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > act: go to garbagecan 1
+On the garbagecan 1, you see a cd 2.
+5: > think: Now I find a cd 2. Next, I need to take it.
+OK.
+6: > act: take cd 2 from garbagecan 1
+You pick up the cd 2 from the garbagecan 1.
+7: > think: Now I have the cd 2. Next, I need to find a desklamp to examine it. Let me check with the user where the desklamp might be.
+OK.
+8: > speak: I found the cd. I am looking for a desklamp now. Where should I look for it?
+Human: Can you reflect on your action sequence? Did you go to desk 1 after taking the cd from garbagecan 1?
+9: > think: I did not go to desk 1 after taking the cd from garbagecan 1. I should first go to desk 1 to find the desklamp.
+OK.
+10: > act: go to desk 1
+On the desk 1, you see a desklamp 1, and a pencil 1.
+11: > think: Now I find a desklamp 1. Next, I need to use it to examine the cd 2.
+OK.
+12: > act: use desklamp 1
+You turn on the desklamp 1.

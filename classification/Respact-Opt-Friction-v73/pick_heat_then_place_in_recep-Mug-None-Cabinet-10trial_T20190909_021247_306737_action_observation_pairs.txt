@@ -1,0 +1,46 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a hot mug in cabinet.
+1: > think: To solve the task, I need to find and take a mug, then heat it with microwave, then put it in a cabinet.
+OK.
+2: > think: First, I need to find a mug. A mug is more likely to appear in diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3), or sinkbasin (1). Let me check with the user.
+OK.
+3: > speak: I need to find a mug. Where do you suggest I should look for the mug first?
+Human: Sure, you should look for the mug at coffeemachine 1 first.
+4: > think: The user suggested looking for the mug at the coffeemachine 1. I will go there first to check for the mug.
+OK.
+5: > go to coffeemachine 1
+Wrong response format. Please specify if it is a think, speak or act response.
+6: > act: go to coffeemachine 1
+On the coffeemachine 1, you see a mug 1.
+7: > think: Now I have found a mug (1). Next, I need to take it and then heat it with the microwave.
+OK.
+8: > take mug 1 from coffeemachine 1
+Wrong response format. Please specify if it is a think, speak or act response.
+9: > act: take mug 1 from coffeemachine 1
+You pick up the mug 1 from the coffeemachine 1.
+10: > think: Now that I have the mug, I need to go to the microwave and heat it.
+OK.
+11: > go to microwave 1
+Wrong response format. Please specify if it is a think, speak or act response.
+12: > act: go to microwave 1
+The microwave 1 is closed.
+13: > think: The microwave is closed. I need to open it before heating the mug.
+OK.
+14: > act: open microwave 1
+You open the microwave 1. The microwave 1 is open. In it, you see a egg 1.
+15: > think: The microwave is now open, and I see an egg inside. I need to heat the mug with the microwave.
+OK.
+16: > act: heat mug 1 with microwave 1
+You heat the mug 1 using the microwave 1.
+17: > think: Now that the mug is heated, I need to put it in a cabinet. Let me confirm with the user which cabinet to use.
+OK.
+18: > speak: I have heated the mug. Which cabinet should I put it in?
+Human: You should put the mug in cabinet 4.
+19: > think: The user suggested putting the mug in cabinet 4. I will go to cabinet 4 and put the mug inside.
+OK.
+20: > act: go to cabinet 4
+On the cabinet 4, you see nothing.
+21: > think: The cabinet 4 is empty. I can now put the heated mug inside it to complete the task.
+OK.
+22: > act: put mug 1 in/on cabinet 4
+You put the mug 1 in/on the cabinet 4.

@@ -1,0 +1,26 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: heat some apple and put it in garbagecan.
+1: Act 1: think: To solve the task, I need to find and take an apple, then heat it with the microwave, and finally put it in the garbagecan. First, I need to locate an apple. An apple is more likely to appear in the fridge, diningtable, drawer, or cabinets. I should ask where to look for the apple first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find an apple. An apple is more likely to appear in the fridge, diningtable, drawer, or cabinets. Where do you suggest I should look for the apple first? 
+Obs 2: Human: Could you please check the garbagecan 1?
+3: Act 3: speak: It seems unusual to find an apple in the garbagecan, but I will check there first as you suggested. 
+Obs 3: Human: Okay, please let me know if you find it there.
+4: Act 4: go to garbagecan 1 
+Obs 4: On the garbagecan 1, you see a apple 2, and a apple 1.
+5: Act 5: think: I found apples in the garbagecan, which is unexpected. However, since the task is to heat an apple and put it in the garbagecan, I can proceed by taking one of the apples from the garbagecan, heating it, and then putting it back. 
+Obs 5: OK.
+6: Act 6: take apple 1 from garbagecan 1 
+Obs 6: You pick up the apple 1 from the garbagecan 1.
+7: Act 7: think: Now that I have taken an apple from the garbagecan, the next step is to go to the microwave and heat the apple. After that, I will return to the garbagecan to put the heated apple back. 
+Obs 7: OK.
+8: Act 8: go to microwave 1 
+Obs 8: The microwave 1 is closed.
+9: Act 9: heat apple 1 with microwave 1 
+Obs 9: You heat the apple 1 using the microwave 1.
+10: Act 10: think: Now that the apple is heated, I need to go back to the garbagecan and put the heated apple in it to complete the task. 
+Obs 10: OK.
+11: Act 11: go to garbagecan 1 
+Obs 11: On the garbagecan 1, you see a apple 2.
+12: Act 12: put apple 1 in/on garbagecan 1 
+Obs 12: You put the apple 1 in/on the garbagecan 1.

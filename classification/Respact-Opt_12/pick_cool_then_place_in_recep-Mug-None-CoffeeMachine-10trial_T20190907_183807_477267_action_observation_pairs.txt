@@ -1,0 +1,26 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: cool some mug and put it in coffeemachine.
+1: Act 1: think: To solve the task, I need to find and take a mug, then cool it with the fridge, and finally put it in the coffeemachine. First, I need to locate a mug. A mug is more likely to appear in countertop (1-3), coffeemachine (1), cabinet (1-6), shelf (1-3), or drawer (1-3). Let me ask where I should start looking first. 
+Obs 1: OK.
+2: Act 2: speak: I think a mug is more likely to appear in countertop (1-3), coffeemachine (1), cabinet (1-6), shelf (1-3), or drawer (1-3). Where should I look for it first? 
+Obs 2: Human: Can you please check the countertop 1?
+3: Act 3: go to countertop 1 
+Obs 3: On the countertop 1, you see a cellphone 2, a mug 1, and a spoon 1.
+4: Act 4: think: I have found a mug (1) on the countertop 1. Next, I need to take it and then cool it using the fridge. After that, I will put it in the coffeemachine. 
+Obs 4: OK.
+5: Act 5: take mug 1 from countertop 1 
+Obs 5: You pick up the mug 1 from the countertop 1.
+6: Act 6: think: Now that I have taken the mug (1), I need to go to the fridge (1) to cool it. After cooling, I will proceed to put it in the coffeemachine. 
+Obs 6: OK.
+7: Act 7: go to fridge 1 
+Obs 7: The fridge 1 is closed.
+8: Act 8: open fridge 1 
+Obs 8: You open the fridge 1. The fridge 1 is open. In it, you see a bread 2, and a egg 1.
+9: Act 9: cool mug 1 with fridge 1 
+Obs 9: You cool the mug 1 using the fridge 1.
+10: Act 10: think: Now that the mug (1) is cooled, I need to go to the coffeemachine and put the mug in it. 
+Obs 10: OK.
+11: Act 11: go to coffeemachine 1 
+Obs 11: On the coffeemachine 1, you see nothing.
+12: Act 12: put mug 1 in/on coffeemachine 1 
+Obs 12: You put the mug 1 in/on the coffeemachine 1.

@@ -1,0 +1,32 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.
+Your task is to: clean some cloth and put it in countertop.
+1: > think: To solve the task, I need to find and take a cloth, then clean it with a sinkbasin, and finally put it on the countertop.
+OK.
+2: > think: First, I need to find a cloth. A cloth is more likely to appear in cabinet (1-4), countertop (1), or sinkbasin (1-2). Let me confirm with the user.
+OK.
+3: > speak: I am looking for a cloth. Where should I look for the cloth first?
+Human: You should look for the cloth in cabinet 1 first.
+4: > go to cabinet 1
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to cabinet 1
+The cabinet 1 is closed.
+6: > act: open cabinet 1
+You open the cabinet 1. The cabinet 1 is open. In it, you see a cloth 2.
+7: > think: Now that I have found a cloth in cabinet 1, I need to take it.
+OK.
+8: > act: take cloth 2 from cabinet 1
+You pick up the cloth 2 from the cabinet 1.
+9: > think: Now that I have taken the cloth, I need to go to a sinkbasin to clean it.
+OK.
+10: > act: go to sinkbasin 1
+On the sinkbasin 1, you see nothing.
+11: > think: Now that I am at the sinkbasin 1, I need to clean the cloth 2 using the sinkbasin 1.
+OK.
+12: > act: clean cloth 2 with sinkbasin 1
+You clean the cloth 2 using the sinkbasin 1.
+13: > think: Now that I have cleaned the cloth, I need to go to the countertop and put the cloth on it.
+OK.
+14: > act: go to countertop 1
+On the countertop 1, you see a soapbottle 1, and a spraybottle 1.
+15: > act: put cloth 2 in/on countertop 1
+You put the cloth 2 in/on the countertop 1.

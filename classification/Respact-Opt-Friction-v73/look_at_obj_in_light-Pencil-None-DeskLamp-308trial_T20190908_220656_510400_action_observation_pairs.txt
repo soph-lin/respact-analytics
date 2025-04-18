@@ -1,0 +1,28 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: examine the pencil with the desklamp.
+1: > think: To solve the task, I need to find and take a pencil, then find and use a desklamp. First, I need to find a pencil. A pencil is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for a pencil. A pencil is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), bed (1), garbagecan (1). Where should I look first?
+Human: You should look for the pencil at desk 2 first.
+3: > go to desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > act: go to desk 2
+On the desk 2, you see a alarmclock 1, a book 2, a mug 1, and a pencil 3.
+5: > think: Now I find a pencil 3. Next, I need to take it.
+OK.
+6: > take pencil 3 from desk 2
+Wrong response format. Please specify if it is a think, speak or act response.
+7: > act: take pencil 3 from desk 2
+You pick up the pencil 3 from the desk 2.
+8: > think: Now I have the pencil 3. Next, I need to find a desklamp to examine it. Let me check with the user where the desklamp might be.
+OK.
+9: > speak: I found the pencil. I am looking for a desklamp now. Where should I look for it?
+Human: Can you reflect on what actions you took after taking pencil 3 from desk 2? Did you go to desk 1?
+10: > think: After taking the pencil from desk 2, I did not go to desk 1. I need to find a desklamp, which is likely to be on desk 1. Let me go to desk 1 and check for the desklamp.
+OK.
+11: > act: go to desk 1
+On the desk 1, you see a bowl 2, a cd 1, a desklamp 1, and a laptop 1.
+12: > think: Now I find a desklamp 1 on desk 1. Next, I need to use it to examine the pencil.
+OK.
+13: > act: use desklamp 1
+You turn on the desklamp 1.

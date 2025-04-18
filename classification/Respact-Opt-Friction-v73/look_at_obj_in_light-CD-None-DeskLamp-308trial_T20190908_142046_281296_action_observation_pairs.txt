@@ -1,0 +1,22 @@
+0: You are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a safe 1, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.
+Your task is to: examine the cd with the desklamp.
+1: > think: To solve the task, I need to find and take a cd, then find and use a desklamp. First, I need to find a cd. A cd is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Let me check with the user.
+OK.
+2: > speak: I am looking for a cd. A cd is more likely to appear in drawer (1-6), desk (1-2), shelf (1-6), garbagecan (1). Where should I look first?
+Human: You should look on desk 1 first.
+3: > go to desk 1
+Wrong response format. Please specify if it is a think, speak or act response.
+4: > go to desk 1
+Wrong response format. Please specify if it is a think, speak or act response.
+5: > act: go to desk 1
+On the desk 1, you see a cd 2, a creditcard 2, and a desklamp 1.
+6: > think: Now I find a cd 2. Next, I need to take it.
+OK.
+7: > take cd 2 from desk 1
+Wrong response format. Please specify if it is a think, speak or act response.
+8: > act: take cd 2 from desk 1
+You pick up the cd 2 from the desk 1.
+9: > think: Now I have the cd 2. Next, I need to use the desklamp to examine it. I see a desklamp 1 on the desk 1. I will use it.
+OK.
+10: > act: use desklamp 1
+You turn on the desklamp 1.

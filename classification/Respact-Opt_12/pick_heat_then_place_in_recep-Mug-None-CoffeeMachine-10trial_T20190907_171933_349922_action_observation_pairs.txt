@@ -1,0 +1,24 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a hot mug in coffeemachine.
+1: Act 1: think: To solve the task, I need to find and take a mug, then heat it, and finally put it in the coffeemachine. First, I need to locate a mug. A mug is more likely to appear in the cabinet, countertop, drawer, or shelf. Let me ask where to look for the mug first. 
+Obs 1: OK.
+2: Act 2: speak: I need to find a mug. A mug is more likely to appear in the cabinet, countertop, drawer, or shelf. Where do you suggest I should look for the mug first? 
+Obs 2: Human: Can you please check the countertop 3?
+3: Act 3: go to countertop 3 
+Obs 3: On the countertop 3, you see a bread 1, a butterknife 1, a cellphone 3, a creditcard 1, a glassbottle 3, a houseplant 1, a knife 2, a mug 2, a papertowelroll 1, a plate 3, a spatula 3, and a spoon 2.
+4: Act 4: think: Now I find a mug (2) on the countertop 3. Next, I need to take it. 
+Obs 4: OK.
+5: Act 5: take mug 2 from countertop 3 
+Obs 5: You pick up the mug 2 from the countertop 3.
+6: Act 6: think: Now that I have taken the mug, I need to heat it. The most suitable appliance for heating is the microwave. I should go to the microwave next. 
+Obs 6: OK.
+7: Act 7: go to microwave 1 
+Obs 7: The microwave 1 is closed.
+8: Act 8: heat mug 2 with microwave 1 
+Obs 8: You heat the mug 2 using the microwave 1.
+9: Act 9: think: Now that the mug is heated, I need to put it in the coffeemachine. I should go to the coffeemachine next. 
+Obs 9: OK.
+10: Act 10: go to coffeemachine 1 
+Obs 10: On the coffeemachine 1, you see nothing.
+11: Act 11: put mug 2 in/on coffeemachine 1 
+Obs 11: You put the mug 2 in/on the coffeemachine 1.

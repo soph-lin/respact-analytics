@@ -1,0 +1,42 @@
+0: You are in the middle of a room. Looking quickly around you, you see a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.
+Your task is to: put a hot mug in cabinet.
+1: > think: To solve the task, I need to find and take a mug, then heat it with microwave, then put it in a cabinet.
+OK.
+2: > think: First, I need to find a mug. A mug is more likely to appear in diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3), or sinkbasin (1). Let me check with the user.
+OK.
+3: > speak: I need to find a mug. I think a mug is most likely to be in diningtable (1), countertop (1-3), cabinet (1-6), drawer (1-3), or sinkbasin (1). Where should I look first?
+Human: Sure, that sounds good to me.
+4: > speak: Where should I look for the mug first?
+Human: You should look for the mug at the coffeemachine 1 first.
+5: > go to coffeemachine 1
+Wrong response format. Please specify if it is a think, speak or act response.
+6: > think: I need to go to the coffeemachine 1 to look for the mug.
+OK.
+7: > go to coffeemachine 1
+Wrong response format. Please specify if it is a think, speak or act response.
+8: > act: go to coffeemachine 1
+On the coffeemachine 1, you see a mug 3.
+9: > think: Now I find a mug (3). Next, I need to take it.
+OK.
+10: > act: take mug 3 from coffeemachine 1
+You pick up the mug 3 from the coffeemachine 1.
+11: > think: Now that I have the mug, I need to go to the microwave to heat it.
+OK.
+12: > act: go to microwave 1
+The microwave 1 is closed.
+13: > act: open microwave 1
+You open the microwave 1. The microwave 1 is open. In it, you see nothing.
+14: > think: Now that the microwave is open, I need to heat the mug using the microwave.
+OK.
+15: > act: heat mug 3 with microwave 1
+You heat the mug 3 using the microwave 1.
+16: > think: Now that the mug is heated, I need to put it in a cabinet. Let me confirm with the user which cabinet to use.
+OK.
+17: > speak: I have heated the mug. Which cabinet should I put it in?
+Human: Please put the mug in cabinet 4.
+18: > act: go to cabinet 4
+On the cabinet 4, you see a bowl 1.
+19: > think: Now that I am at cabinet 4, I need to put the heated mug inside it.
+OK.
+20: > act: put mug 3 in/on cabinet 4
+You put the mug 3 in/on the cabinet 4.
