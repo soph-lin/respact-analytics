@@ -46,7 +46,7 @@ This codebase provides tools for:
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/soph-lin/respact-analytics.git
 cd respact-analyze
 ```
 
