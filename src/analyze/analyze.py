@@ -328,7 +328,7 @@ def main():
     
     # Get the absolute path to the src directory
     src_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    output_dir = os.path.join(src_dir, 'output')
+    output_dir = os.path.join(src_dir, 'stratify')
     os.makedirs(output_dir, exist_ok=True)
     
     # Determine parent path to analyze
